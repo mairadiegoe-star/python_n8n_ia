@@ -1,7 +1,7 @@
 # python_n8n_ia
 Curso de Python y n8n con IA - 28 clases Feb 2026
 
-Este repositorio pertenece a DM
+Este repositorio pertenece a DM y solamente a DM
 
 ## Clase 11 - Introducción a la Programación Orientada a Objetos y Uso de Git
 
